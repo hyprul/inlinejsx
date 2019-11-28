@@ -1,2 +1,0 @@
-# inlinejsx
-Created with CodeSandbox
